@@ -6,8 +6,7 @@ class App extends Component {
 	constructor() {
 		super()
 		this.state = {
-			data: [],
-			searchText: "Shra"
+			data: []
 		}
 	}
 	componentWillMount() {
